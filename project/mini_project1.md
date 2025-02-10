@@ -146,7 +146,7 @@ Berikut contoh pengisian untuk analisis data terstruktur, semi-terstruktur, dan 
 * Nama Database/Dataset: **Pasien Rumah Sakit Umum**
 * Format: **CSV**
 * Ukuran Data: **100 MB**
-* Sumber: **Rumah Sakit Umum Daerah**
+* Sumber: **Rumah Sakit Umum Daerah** (URL)
 
 **1.2 Karakteristik**
 
@@ -183,7 +183,7 @@ Berikut contoh pengisian untuk analisis data terstruktur, semi-terstruktur, dan 
 * Nama Dataset/File: **Log Aktivitas Pengguna Aplikasi Kesehatan**
 * Format: **JSON**
 * Ukuran Data: **5 GB**
-* Sumber: **Aplikasi Kesehatan Mobile**
+* Sumber: **Aplikasi Kesehatan Mobile** (URL)
 
 **2.2 Karakteristik**
 
@@ -213,7 +213,7 @@ Berikut contoh pengisian untuk analisis data terstruktur, semi-terstruktur, dan 
 * Tipe Data: **Teks**
 * Format: **Dokumen PDF**
 * Ukuran Data: **10 GB**
-* Sumber: **Laporan Penelitian Medis**
+* Sumber: **Laporan Penelitian Medis** (URL)
 
 **3.2 Karakteristik**
 
