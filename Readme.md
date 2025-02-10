@@ -1,4 +1,7 @@
-### Tools
+RPL23402 - Data Engineering
+---------------------------
+
+Tools
 
 1. Python standard library
 2. pandas
@@ -8,6 +11,13 @@
 6. Luigi (basic)
 7. Text Editor/IDE: VSCode atau PyCharm
 8. Notebooks: Jupyter Notebooks atau Google Colab
+
+Referensi :
+
+1. [Fundamentals of Data Engineering Plan and Build Robust Data Systems](https://drive.google.com/file/d/1ncjfLNRSMcwiP-Mk5IWqCgp5x767yvTW/view?usp=drive_link)
+2. [Building ETL Pipelines with Python](https://drive.google.com/file/d/17yfmUb5fobAO-2K4p_QMaqBkzo7gHMfG/view?usp=sharing)
+
+---
 
 * **MINGGU 1-2: Module 1 - Introduction to Data Engineering**
   * **Team Project**: [Open Data Source Analysis & Planning](https://)
