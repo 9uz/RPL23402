@@ -1,0 +1,102 @@
+### Tools
+
+1. Python standard library
+2. pandas
+3. requests
+4. BeautifulSoup
+5. SQLite/PostgreSQL
+6. Luigi (basic)
+7. Text Editor/IDE: VSCode atau PyCharm
+8. Notebooks: Jupyter Notebooks atau Google Colab
+
+* **MINGGU 1-2: Module 1 - Introduction to Data Engineering**
+  * **Team Project**: [Open Data Source Analysis & Planning](https://)
+  * Minggu 1 :
+    * Pengenalan data dan Data Lifecycle
+    * Big Data characteristics dan career paths
+    * Real-world use cases
+    * Pembentukan kelompok  **Team Project**
+    * **Mini Project (Individual)**: [Data Source Analysis](https://)
+  * Minggu 2 :
+    * Overview tools dan teknologi
+    * Review Mini Project dan Team Project
+
+---
+
+* **MINGGU 3-4: Module 2 - Python Programming Fundamentals**
+  * **Team Project**: Data Structure for Public Datasets
+  * Minggu 3:
+    * Python Basics (Variables, Data Types, Operators)
+    * Control Flow dan Functions
+    * Hands-on practice
+  * Minggu 4 :
+    * Data Structures dan operations
+    * Error handling dan File operations
+    * **Mini Project** : Data Structure Implementation
+
+---
+
+* **MINGGU 5-6: Module 3 - Data Formats and Basic Processing**
+  * **Team Project**: Public Data Format Handler
+  * Minggu 5 :
+    * CSV dan JSON processing
+    * Text files dan XML basics
+    * Practical exercises
+  * Minggu 6 :
+    * Handle geographic data (GeoJSON)
+    * Process demographic data (CSV)
+    * Statistical data (Excel/CSV)
+  * Minggu 7 :
+    * Basic data transformations
+    * Data validation
+    * **Mini Project** : Format Converter
+
+---
+
+* **MINGGU 8: UTS**
+  * Minggu 8 :
+    * UTS: Evaluasi pemahaman Module 1-3
+
+---
+
+* **MINGGU 9-10: Module 4 - Structured Data Processing**
+  * **Team Project**:Public Data Analysis System
+  * Minggu 9 :
+    * Pandas fundamentals dan operations
+    * Hands-on practice dengan Pandas
+  * Minggu 10 :
+    * SQL fundamentals dan operations
+    * **Mini Project** :Sales Data Analyzer
+
+---
+
+* **MINGGU 11-12: Module 5 - Data Integration and Cleaning******
+  * **Team Project**:Public Data Analysis System
+  * Minggu 11 :
+    * API Integration
+    * Web Scraping basics
+    * Praktik (Scraping best practices)
+  * Minggu 12 :
+    * Data Cleaning techniques
+    * Hands-on cleaning project
+    * Mini Project :
+
+---
+
+* **MINGGU 13-15: Module 6 & 7 - ETL, Data Pipelines, dan Advanced Processing**
+  * **Team Project**:Advanced Analytics Pipeline
+  * Minggu 13 :
+    * ETL Concepts dan Pipeline basics
+    * Hands-on ETL practice
+  * Minggu 14 :
+    * Batch Processing
+    * Mini Project : Batch Processor
+  * Minggu 15 :
+    * Pipeline Orchestration dengan Luigi
+    * Team Project Review
+
+---
+
+* **MINGGU 16: Review dan UAS**
+  * Minggu 16 :
+  * UAS: Evaluasi keseluruhan materi
