@@ -127,15 +127,9 @@
 - Technical Documentation
 - Reference Materials
 
-
-
-
-
 ---
 
 ---
-
-
 
 Berikut contoh pengisian untuk analisis data terstruktur, semi-terstruktur, dan tidak terstruktur:
 
