@@ -21,7 +21,7 @@ Referensi :
 
 * **MINGGU 1-2: Module 1 - Introduction to Data Engineering**
   * **Team Project**: [Open Data Source Analysis & Planning](https://)
-  * Minggu 1 :
+  * Minggu 1 : [ppt](https://drive.google.com/file/d/1zpElsFSyQ-FMyJ3YnHdGrUhMOcSYQNu7/view?usp=sharing)
     * Pengenalan data dan Data Lifecycle
     * Big Data characteristics dan career paths
     * Real-world use cases
