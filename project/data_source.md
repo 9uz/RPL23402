@@ -20,8 +20,8 @@
    - OpenStreetMap
    - Geographic Information System (GIS) data
    - Spatial datasets
-
 5. **Sumber data Lain**
+
    - Data.gov: https://www.data.gov/ (data pemerintah AS)
    - Kaggle Datasets: https://www.kaggle.com/datasets (berbagai macam dataset untuk machine learning dan analisis data)
    - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php (dataset untuk machine learning)

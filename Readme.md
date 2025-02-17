@@ -38,11 +38,11 @@ Referensi :
   * Minggu 3:
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
-    * Hands-on practice
+    * [Hands-on practice](https://project/Hands_on_practice1.ipynb)
   * Minggu 4 :
     * Data Structures dan operations
     * Error handling dan File operations
-    * **Mini Project** : Data Structure Implementation
+    * **Mini Project** : [Data Structure Implementation](https://project/mini_project2.md)
 
 ---
 
