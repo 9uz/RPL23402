@@ -27,7 +27,7 @@ Referensi :
     * Real-world use cases
     * Pembentukan kelompok  **Team Project**
     * **Mini Project (Individual)**: [Data Source Analysis](https://)
-  * Minggu 2 :
+  * Minggu 2 : [ppt](https://https://drive.google.com/file/d/15tjISNazlHfNHcBz-NjFqxuotEmjnrQS/view?usp=sharing)
     * Overview tools dan teknologi
     * Review Mini Project dan Team Project
 
