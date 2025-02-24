@@ -34,21 +34,27 @@ Referensi :
 ---
 
 * **MINGGU 3-4: Module 2 - Python Programming Fundamentals**
-  * **Team Project**: Data Structure for Public Datasets
+  * **Team Project**: [Data Structure for Public Datasets](project/team_project2.md)
+  * Review Team Project
   * Minggu 3:
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
-    * [Hands-on practice](https://project/Hands_on_practice1.ipynb)
+    * Pengenalan library utama: pandas, numpy
+    * [Hands-on practice1](https://project/Hands_on_practice1.ipynb)
   * Minggu 4 :
     * Data Structures dan operations
+    * Data cleaning dan transformasi dasar
     * Error handling dan File operations
+    * Hands-on practice2
     * **Mini Project** : [Data Structure Implementation](https://project/mini_project2.md)
 
 ---
 
 * **MINGGU 5-6: Module 3 - Data Formats and Basic Processing**
   * **Team Project**: Public Data Format Handler
+  * Review Team Project
   * Minggu 5 :
+    * Membaca berbagai format data (CSV, JSON, API)
     * CSV dan JSON processing
     * Text files dan XML basics
     * Practical exercises
@@ -71,6 +77,7 @@ Referensi :
 
 * **MINGGU 9-10: Module 4 - Structured Data Processing**
   * **Team Project**:Public Data Analysis System
+  * Review Team Project
   * Minggu 9 :
     * Pandas fundamentals dan operations
     * Hands-on practice dengan Pandas
@@ -82,6 +89,7 @@ Referensi :
 
 * **MINGGU 11-12: Module 5 - Data Integration and Cleaning******
   * **Team Project**:Public Data Analysis System
+  * Review Team Project
   * Minggu 11 :
     * API Integration
     * Web Scraping basics
@@ -95,6 +103,7 @@ Referensi :
 
 * **MINGGU 13-15: Module 6 & 7 - ETL, Data Pipelines, dan Advanced Processing**
   * **Team Project**:Advanced Analytics Pipeline
+  * Review Team Project
   * Minggu 13 :
     * ETL Concepts dan Pipeline basics
     * Hands-on ETL practice
