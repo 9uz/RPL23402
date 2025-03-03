@@ -45,7 +45,7 @@ Referensi :
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
-    * Hands-on practice2
+    * [Hands-on practice2](hand_on_practice2)
     * **Mini Project** : [Data Structure Implementation](https://project/mini_project2.md)
 
 ---
