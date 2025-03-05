@@ -40,12 +40,12 @@ Referensi :
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
-    * [Hands-on practice1](https://project/Hands_on_practice1.ipynb)
+    * [Hands-on practice1](kode/Hands_on_practice1.ipynb)
   * Minggu 4 :
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
-    * [Hands-on practice2](hand_on_practice2)
+    * [Hands-on practice2](kode/hand_on_practice2)
     * **Mini Project** : [Data Structure Implementation](https://project/mini_project2.md)
 
 ---
@@ -57,7 +57,7 @@ Referensi :
     * Membaca berbagai format data (CSV, JSON, API)
     * CSV dan JSON processing
     * Text files dan XML basics
-    * Practical exercises
+    * [Hand_on_practice3](kode/hand_on_practice2)
   * Minggu 6 :
     * Handle geographic data (GeoJSON)
     * Process demographic data (CSV)
