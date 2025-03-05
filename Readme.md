@@ -62,6 +62,7 @@ Referensi :
     * Handle geographic data (GeoJSON)
     * Process demographic data (CSV)
     * Statistical data (Excel/CSV)
+    * Review Team Project
   * Minggu 7 :
     * Basic data transformations
     * Data validation
