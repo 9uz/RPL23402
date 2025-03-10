@@ -26,7 +26,7 @@ Referensi :
     * Big Data characteristics dan career paths
     * Real-world use cases
     * Pembentukan kelompok  **Team Project**
-    * **Mini Project (Individual)**: [Data Source Analysis](https://)
+    * **Mini Project 1(Individual)**: [Data Source Analysis](https://)
   * Minggu 2 : [ppt](https://https://drive.google.com/file/d/15tjISNazlHfNHcBz-NjFqxuotEmjnrQS/view?usp=sharing)
     * Overview tools dan teknologi
     * Review Mini Project dan Team Project
@@ -46,7 +46,7 @@ Referensi :
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
     * [Hands-on practice2](kode/hand_on_practice2)
-    * **Mini Project** : [Data Structure Implementation](https://project/mini_project2.md)
+    * **Mini Project 2** : [Data Structure Implementation](https://project/mini_project2.md)
 
 ---
 
@@ -63,11 +63,11 @@ Referensi :
     * Process demographic data (CSV)
     * Statistical data (Excel/CSV)
     * Review Team Project
-    *  **Mini Project** : [Format Converter](project/team_project3.md)
+    *  **Mini Project 3 ** : [Format Converter](project/mini_project3.md)
   * Minggu 7 :
     * Basic data transformations
     * Data validation
-    *  **Mini Project** : [Exploratory Data Analysis (EDA)](project/team_project4.md)
+    *  **Mini Project 4 ** : [Exploratory Data Analysis (EDA)](project/mini_project4.md)
 
 ---
 
