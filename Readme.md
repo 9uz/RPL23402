@@ -51,7 +51,7 @@ Referensi :
 ---
 
 * **MINGGU 5-6: Module 3 - Data Formats and Basic Processing**
-  * **Team Project**: Public Data Format Handler
+  * **Team Project**: [Public Data Format Handler](project/team_project3.md)
   * Review Team Project
   * Minggu 5 :
     * Membaca berbagai format data (CSV, JSON, API)
@@ -63,10 +63,11 @@ Referensi :
     * Process demographic data (CSV)
     * Statistical data (Excel/CSV)
     * Review Team Project
+    *  **Mini Project** : [Format Converter](project/team_project3.md)
   * Minggu 7 :
     * Basic data transformations
     * Data validation
-    * **Mini Project** : Format Converter
+    *  **Mini Project** : [Exploratory Data Analysis (EDA)](project/team_project4.md)
 
 ---
 
