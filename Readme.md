@@ -57,7 +57,7 @@ Referensi :
     * Membaca berbagai format data (CSV, JSON, API)
     * CSV dan JSON processing
     * Text files dan XML basics
-    * [Hand_on_practice3](kode/hand_on_practice2)
+    * [Hand_on_practice3](kode/hand_on_practice3)
   * Minggu 6 :
     * Handle geographic data (GeoJSON)
     * Process demographic data (CSV)
