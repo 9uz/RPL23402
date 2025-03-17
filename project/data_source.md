@@ -37,3 +37,9 @@
    - UNESCO Institute for Statistics: http://uis.unesco.org/
    - OpenStreetMap (OSM): https://www.openstreetmap.org/
    - Natural Earth: https://www.naturalearthdata.com/
+   - https://archive.ics.uci.edu/
+   - https://git-disl.github.io/GTDLBench/datasets/
+   - https://www.ecmwf.int/
+   - https://github.com/caserec/Datasets-for-Recommender-Systems
+   - http://millionsongdataset.com/
+   - https://truffle.acmbpdc.org/Ganache/Data/
