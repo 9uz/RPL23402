@@ -74,7 +74,7 @@ Referensi :
 * **MINGGU 8: UTS**
   * Minggu 8 :
     * UTS: [Proyek mandiri](project/uts)
-    * Pengmumpulan [link](https://forms.gle/Jq18uLHGPZu9uAmf8)
+    * Pengumpulan [link](https://forms.gle/Jq18uLHGPZu9uAmf8)
 
 ---
 
