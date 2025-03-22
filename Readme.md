@@ -63,17 +63,18 @@ Referensi :
     * Process demographic data (CSV)
     * Statistical data (Excel/CSV)
     * Review Team Project
-    *  **Mini Project 3 ** : [Format Converter](project/mini_project3.md)
+    * **Mini Project 3 ** : [Format Converter](project/mini_project3.md)
   * Minggu 7 :
     * Basic data transformations
     * Data validation
-    *  **Mini Project 4 ** : [Exploratory Data Analysis (EDA)](project/mini_project4.md)
+    * **Mini Project 4 ** : [Exploratory Data Analysis (EDA)](project/mini_project4.md)
 
 ---
 
 * **MINGGU 8: UTS**
   * Minggu 8 :
-    * UTS: Evaluasi pemahaman Module 1-3
+    * UTS: [Proyek mandiri](project/uts)
+    * Pengmumpulan [link](https://forms.gle/Jq18uLHGPZu9uAmf8)
 
 ---
 
