@@ -66,7 +66,7 @@ Referensi :
     * **Mini Project 3 ** : [Format Converter](project/mini_project3.md)
   * Minggu 7 :
     * Basic data transformations
-    * Data validation
+    * Exploratory Data dan Data Quality
     * **Mini Project 4 ** : [Exploratory Data Analysis (EDA)](project/mini_project4.md)
 
 ---
