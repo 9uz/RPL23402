@@ -12,11 +12,13 @@ Tools
 7. Text Editor/IDE: VSCode atau PyCharm
 8. Notebooks: Jupyter Notebooks atau Google Colab
 
-Referensi :
+Referensi Utama :
 
 1. [Fundamentals of Data Engineering Plan and Build Robust Data Systems](https://drive.google.com/file/d/1ncjfLNRSMcwiP-Mk5IWqCgp5x767yvTW/view?usp=drive_link)
 2. [Building ETL Pipelines with Python](https://drive.google.com/file/d/17yfmUb5fobAO-2K4p_QMaqBkzo7gHMfG/view?usp=sharing)
 
+Referensi Tambahan:
+1. Hands-On Data Analysis with Pandas – Second Edition
 ---
 
 * **MINGGU 1-2: Module 1 - Introduction to Data Engineering**
@@ -79,19 +81,19 @@ Referensi :
 ---
 
 * **MINGGU 9-10: Module 4 - Structured Data Processing**
-  * **Team Project**:Public Data Analysis System
+  * **Team Project**:[Public Data Analysis System](project/team_project4.md)
   * Review Team Project
   * Minggu 9 :
-    * Pandas fundamentals dan operations
-    * Hands-on practice dengan Pandas
+    * Pandas fundamentals dan operations (lanjutan)
+    * [Hands-on practice 4 dengan Pandas](project/kode/hand_on_practice4)
   * Minggu 10 :
     * SQL fundamentals dan operations
-    * **Mini Project** :Sales Data Analyzer
+    * **Mini Project 5** :Sales Data Analyzer
 
 ---
 
 * **MINGGU 11-12: Module 5 - Data Integration and Cleaning******
-  * **Team Project**:Public Data Analysis System
+  * **Team Project**:Public Data Analysis System 2
   * Review Team Project
   * Minggu 11 :
     * API Integration
