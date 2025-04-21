@@ -16,6 +16,7 @@ Referensi Utama :
 
 1. [Fundamentals of Data Engineering Plan and Build Robust Data Systems](https://drive.google.com/file/d/1ncjfLNRSMcwiP-Mk5IWqCgp5x767yvTW/view?usp=drive_link)
 2. [Building ETL Pipelines with Python](https://drive.google.com/file/d/17yfmUb5fobAO-2K4p_QMaqBkzo7gHMfG/view?usp=sharing)
+3. https://pandas.pydata.org/pandas-docs/dev/user_guide/
 
 Referensi Tambahan:
 1. Hands-On Data Analysis with Pandas – Second Edition
