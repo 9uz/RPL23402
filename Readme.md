@@ -87,7 +87,8 @@ Referensi Tambahan:
   * Minggu 9 :
     * Pandas fundamentals dan operations (lanjutan)
     * [Hands-on practice 4 dengan Pandas](project/kode/hand_on_practice4)
-  * Minggu 10 :
+  * Minggu 10 
+    * Review Team Project 
     * SQL fundamentals dan operations
     * **Mini Project 5** :Sales Data Analyzer
 
@@ -103,6 +104,7 @@ Referensi Tambahan:
   * Minggu 12 :
     * Data Cleaning techniques
     * Hands-on cleaning project
+    * Review Team Project
     * Mini Project :
 
 ---
@@ -124,4 +126,5 @@ Referensi Tambahan:
 
 * **MINGGU 16: Review dan UAS**
   * Minggu 16 :
+  * Review Team Project
   * UAS: Evaluasi keseluruhan materi
