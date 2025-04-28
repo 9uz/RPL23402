@@ -90,7 +90,7 @@ Referensi Tambahan:
   * Minggu 10 
     * Review Team Project 
     * SQL fundamentals dan operations
-    * **Mini Project 5** :Sales Data Analyzer
+    * **Mini Project 5** : [Spotify Data Analysis](project/mini_project5.md)
 
 ---
 
