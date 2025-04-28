@@ -2,6 +2,8 @@
 
 Spotify Data Analysis
 
+dataset : https://drive.google.com/file/d/17Lj8CXXpgWsn7Rj2j0XVWEOfSRPJulTj/view?usp=drive_link
+
 Tujuan : Tentukan Tujuan analisa anda
 
 lakukan tahapan-tahapan berikut :
@@ -12,7 +14,6 @@ lakukan tahapan-tahapan berikut :
 4. Popularitas lagu di Spotify
 5. Heatmap Korelasi antar Variabel
 6. Gunakan Apache Spark
-
 
 Gunakan Apache Spark
 
