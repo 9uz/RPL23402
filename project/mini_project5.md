@@ -11,9 +11,12 @@ lakukan tahapan-tahapan berikut :
 3. Streaming menurut wilayah
 4. Popularitas lagu di Spotify
 5. Heatmap Korelasi antar Variabel
+6. Gunakan Apache Spark
 
 
 Gunakan Apache Spark
+
+https://spark.apache.org/docs/latest/api/python/index.html
 
 Apache Spark adalah alat yang hebat untuk analisis data eksploratif:
 
