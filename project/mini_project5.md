@@ -14,6 +14,8 @@ lakukan tahapan-tahapan berikut :
 4. Popularitas lagu di Spotify
 5. Heatmap Korelasi antar Variabel
 6. Gunakan Apache Spark
+   1. carilah lagu yang paling popular dari setiap negara
+   2. tampilkan data top 100 rank setiap negara berdasarkan bulan tertentu
 
 Gunakan Apache Spark
 
