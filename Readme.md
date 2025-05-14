@@ -19,7 +19,9 @@ Referensi Utama :
 3. https://pandas.pydata.org/pandas-docs/dev/user_guide/
 
 Referensi Tambahan:
+
 1. Hands-On Data Analysis with Pandas – Second Edition
+
 ---
 
 * **MINGGU 1-2: Module 1 - Introduction to Data Engineering**
@@ -87,8 +89,8 @@ Referensi Tambahan:
   * Minggu 9 :
     * Pandas fundamentals dan operations (lanjutan)
     * [Hands-on practice 4 dengan Pandas](project/kode/hand_on_practice4)
-  * Minggu 10 
-    * Review Team Project 
+  * Minggu 10
+    * Review Team Project
     * SQL fundamentals dan operations
     * **Mini Project 5** : [Spotify Data Analysis](project/mini_project5.md)
 
@@ -100,12 +102,12 @@ Referensi Tambahan:
   * Minggu 11 :
     * API Integration
     * Web Scraping basics
-    * Praktik (Scraping best practices)
+    * Hand-on-practice5 [(Scraping best practices)](project/kode/hand_on_practice5)
   * Minggu 12 :
     * Data Cleaning techniques
     * Hands-on cleaning project
     * Review Team Project
-    * Mini Project :
+    * Mini Project 6:[Data cleaning & Loading_Transformed_Data](project/kode/mini_project6)
 
 ---
 

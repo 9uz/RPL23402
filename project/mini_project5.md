@@ -1,4 +1,4 @@
-**Mini Project 5 :** Exploratory Data Analysis (EDA)
+`**Mini Project 5 :**` Exploratory Data Analysis (EDA)
 
 Spotify Data Analysis
 
