@@ -115,7 +115,7 @@ Referensi Tambahan:
   * **Team Project**:[Advanced Analytics Pipeline](project/team_project6.md)
   * Review Team Project
   * Minggu 13 :
-    * ETL Concepts dan Pipeline basics
+    * Serving Data dan Pipeline basics
     * [Hands-on ETL practice 6](project/kode/hand_on_practice6)
   * Minggu 14 :
     * Batch Processing
