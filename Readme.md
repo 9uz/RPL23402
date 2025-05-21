@@ -112,11 +112,11 @@ Referensi Tambahan:
 ---
 
 * **MINGGU 13-15: Module 6 & 7 - ETL, Data Pipelines, dan Advanced Processing**
-  * **Team Project**:Advanced Analytics Pipeline
+  * **Team Project**:[Advanced Analytics Pipeline](project/team_project6.md)
   * Review Team Project
   * Minggu 13 :
     * ETL Concepts dan Pipeline basics
-    * Hands-on ETL practice
+    * [Hands-on ETL practice 6](project/kode/hand_on_practice6)
   * Minggu 14 :
     * Batch Processing
     * Mini Project : Batch Processor
