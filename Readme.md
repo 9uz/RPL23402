@@ -118,10 +118,10 @@ Referensi Tambahan:
     * Serving Data dan Pipeline basics
     * [Hands-on ETL practice 6](project/kode/hand_on_practice6)
   * Minggu 14 :
-    * Batch Processing
-    * Mini Project : Batch Processor
+    * Serving dan Batch Processing
+    * ~~Mini Project : Batch Processor~~
   * Minggu 15 :
-    * Pipeline Orchestration dengan Luigi
+    * ~~Pipeline Orchestration dengan Luigi~~
     * Team Project Review
 
 ---
