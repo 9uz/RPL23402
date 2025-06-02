@@ -38,4 +38,4 @@ Kriteria	Deskripsi	Bobot :
 7. **Presentasi / Demo**  15
 - Mahasiswa menjelaskan alur ETL dengan jelas saat presentasi (10 menit)
 - Menjawab pertanyaan dengan baik
-- Upload  proyek dan dalam github (beri deskripsi Readme.md)
+- Upload  proyek dan dalam github (beri deskripsi Readme.md/tambahkan kontributor)
