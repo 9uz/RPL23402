@@ -1,6 +1,6 @@
 Kriteria	Deskripsi	Bobot :
 
-1. **Judul Proyek ETL** (5 poin)
+1. **Judul Proyek ETL** (20 poin)
 - Apakah judul proyek deskriptif, relevan, dan mencerminkan isi proyek?
 - Manfaat Data / Use Case 
 - Apakah proyek memiliki tujuan yang jelas?
@@ -13,10 +13,9 @@ Kriteria	Deskripsi	Bobot :
 - Menggunakan teknik pengambilan yang tepat (API, file, DB, dll)
 - Menangani error saat ekstraksi	
 
-2. **Transform (Pembersihan & Transformasi)**	25
+2. **Transform (Pembersihan & Transformasi)**	15
 - Data dibersihkan dengan baik (null, duplikat, format)
-- Transformasi logis dan sesuai kebutuhan analisis
-- Menggunakan fungsi/transforms yang efisien	
+- Transformasi logis dan sesuai kebutuhan analisis	
 
 3. **Load (Pemindahan ke Target)**	15
 - Data berhasil dimuat ke target (DB, warehouse, dll)
@@ -36,6 +35,7 @@ Kriteria	Deskripsi	Bobot :
 - Sumber data dan transformasi dijelaskan dengan baik
 - Tools/libraries yang digunakan disebutkan	
 
-7. **Presentasi / Demo** 
+7. **Presentasi / Demo**  15
 - Mahasiswa menjelaskan alur ETL dengan jelas saat presentasi (10 menit)
 - Menjawab pertanyaan dengan baik
+- Upload  proyek dan dalam github (beri deskripsi Readme.md)
