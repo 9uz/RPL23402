@@ -128,7 +128,7 @@ Referensi Tambahan:
 
 * **MINGGU 16: Review dan UAS**
   * Minggu 16 :
-  * Review Team Project
+  * [Review Team Project](project/UAS)
   * UAS: Evaluasi keseluruhan materi
 
 ---
