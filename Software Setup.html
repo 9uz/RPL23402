@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Software Setup</title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition.">
+  <link rel="canonical" href="https://cs231n.github.io/setup-instructions/">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Google fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
+  <!-- Google tracking -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46895817-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+
+
+    <body>
+
+      <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+      <script>addBackToTop({
+        backgroundColor: '#fff',
+        innerHTML: 'Back to Top',
+        textColor: '#333'
+      })</script>
+      <style>
+        #back-to-top {
+          border: 1px solid #ccc;
+          border-radius: 0;
+          font-family: sans-serif;
+          font-size: 14px;
+          width: 100px;
+          text-align: center;
+          line-height: 30px;
+          height: 30px;
+        }
+      </style>
+
+    <header class="site-header">
+
+  <a class="site-title" href="https://cs231n.github.io">CS231n Convolutional Neural Networks for Visual Recognition</a>
+  <a class="site-link" href="http://cs231n.stanford.edu/">Course Website</a>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Software Setup</h1>
+  </header>
+
+  <article class="post-content">
+  <p>This year, the recommended way to work on assignments is through <a href="https://colab.research.google.com/">Google Colaboratory</a>. However, if you already own GPU-backed hardware and would prefer to work locally, we provide you with instructions for setting up a virtual environment.</p>
+
+<ul>
+  <li><a href="#working-remotely-on-google-colaboratory">Working remotely on Google Colaboratory</a></li>
+  <li><a href="#working-locally-on-your-machine">Working locally on your machine</a>
+    <ul>
+      <li><a href="#anaconda-virtual-environment">Anaconda virtual environment</a></li>
+      <li><a href="#python-venv">Python venv</a></li>
+      <li><a href="#installing-packages">Installing packages</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="working-remotely-on-google-colaboratory">Working remotely on Google Colaboratory</h3>
+
+<p>Google Colaboratory is basically a combination of Jupyter notebook and Google Drive. It runs entirely in the cloud and comes
+preinstalled with many packages (e.g. PyTorch and Tensorflow) so everyone has access to the same
+dependencies. Even cooler is the fact that Colab benefits from free access to hardware accelerators
+like GPUs (K80, P100) and TPUs which will be particularly useful for assignments 2 and 3.</p>
+
+<p><strong>Requirements</strong>. To use Colab, you must have a Google account with an associated Google Drive. Assuming you have both, you can connect Colab to your Drive with the following steps:</p>
+
+<ol>
+  <li>Click the wheel in the top right corner and select <code class="language-plaintext highlighter-rouge">Settings</code>.</li>
+  <li>Click on the <code class="language-plaintext highlighter-rouge">Manage Apps</code> tab.</li>
+  <li>At the top, select <code class="language-plaintext highlighter-rouge">Connect more apps</code> which should bring up a <code class="language-plaintext highlighter-rouge">GSuite Marketplace</code> window.</li>
+  <li>Search for <strong>Colab</strong> then click <code class="language-plaintext highlighter-rouge">Add</code>.</li>
+</ol>
+
+<p><strong>Workflow</strong>. Every assignment provides you with a download link to a zip file containing Colab notebooks and Python starter code. You can upload the folder to Drive, open the notebooks in Colab and work on them, then save your progress back to Drive. We encourage you to watch the tutorial video below which covers the recommended workflow using assignment 1 as an example.</p>
+
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/DsGd2e9JNH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p><strong>Best Practices</strong>. There are a few things you should be aware of when working with Colab. The first thing to note is that resources aren’t guaranteed (this is the price for being free). If you are idle for a certain amount of time or your total connection time exceeds the maximum allowed time (~12 hours), the Colab VM will disconnect. This means any unsaved progress will be lost. <font color="red"><strong>Thus, get into the habit of frequently saving your code whilst working on assignments.</strong></font> To read more about resource limitations in Colab, read their FAQ <a href="https://research.google.com/colaboratory/faq.html">here</a>.</p>
+
+<p><strong>Using a GPU</strong>. Using a GPU is as simple as switching the runtime in Colab. Specifically, click <code class="language-plaintext highlighter-rouge">Runtime -&gt; Change runtime type -&gt; Hardware Accelerator -&gt; GPU</code> and your Colab instance will automatically be backed by GPU compute.</p>
+
+<p>If you’re interested in learning more about Colab, we encourage you to visit the resources below:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=inN8seMm7UI">Intro to Google Colab</a></li>
+  <li><a href="https://colab.research.google.com/notebooks/intro.ipynb">Welcome to Colab</a></li>
+  <li><a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Overview of Colab Features</a></li>
+</ul>
+
+<h3 id="working-locally-on-your-machine">Working locally on your machine</h3>
+<p>If you wish to work locally, you should use a virtual environment. You can install one via Anaconda (recommended) or via Python’s native <code class="language-plaintext highlighter-rouge">venv</code> module. Ensure you are using Python 3.7 as <strong>we are no longer supporting Python 2</strong>.</p>
+
+<h4 id="anaconda-virtual-environment">Anaconda virtual environment</h4>
+<p>We strongly recommend using the free <a href="https://www.anaconda.com/download/">Anaconda Python distribution</a>, which provides an easy way for you to handle package dependencies. Please be sure to download the Python 3 version, which currently installs Python 3.7. The neat thing about Anaconda is that it ships with <a href="https://docs.anaconda.com/mkl-optimizations/">MKL optimizations</a> by default, which means your <code class="language-plaintext highlighter-rouge">numpy</code> and <code class="language-plaintext highlighter-rouge">scipy</code> code benefit from significant speed-ups without having to change a single line of code.</p>
+
+<p>Once you have Anaconda installed, it makes sense to create a virtual environment for the course. If you choose not to use a virtual environment (strongly not recommended!), it is up to you to make sure that all dependencies for the code are installed globally on your machine. To set up a virtual environment called <code class="language-plaintext highlighter-rouge">cs231n</code>, run the following in your terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># this will create an anaconda environment</span>
+<span class="c"># called cs231n in 'path/to/anaconda3/envs/'</span>
+conda create <span class="nt">-n</span> cs231n <span class="nv">python</span><span class="o">=</span>3.7
+</code></pre></div></div>
+
+<p>To activate and enter the environment, run <code class="language-plaintext highlighter-rouge">conda activate cs231n</code>. To deactivate the environment, either run <code class="language-plaintext highlighter-rouge">conda deactivate cs231n</code> or exit the terminal. Note that every time you want to work on the assignment, you should rerun <code class="language-plaintext highlighter-rouge">conda activate cs231n</code>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># sanity check that the path to the python</span>
+<span class="c"># binary matches that of the anaconda env</span>
+<span class="c"># after you activate it</span>
+which python
+<span class="c"># for example, on my machine, this prints</span>
+<span class="c"># $ '/Users/kevin/anaconda3/envs/sci/bin/python'</span>
+</code></pre></div></div>
+
+<p>You may refer to <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html">this page</a> for more detailed instructions on managing virtual environments with Anaconda.</p>
+
+<p><strong>Note:</strong> If you’ve chosen to go the Anaconda route, you can safely skip the next section and move straight to <a href="#installing-packages">Installing Packages</a>.</p>
+
+<p><a name="venv"></a></p>
+<h4 id="python-venv">Python venv</h4>
+
+<p>As of 3.3, Python natively ships with a lightweight virtual environment module called <a href="https://docs.python.org/3/library/venv.html">venv</a>. Each virtual environment packages its own independent set of installed Python packages that are isolated from system-wide Python packages and runs a Python version that matches that of the binary that was used to create it. To set up a virtual environment called <code class="language-plaintext highlighter-rouge">cs231n</code>, run the following in your terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># this will create a virtual environment</span>
+<span class="c"># called cs231n in your home directory</span>
+python3.7 <span class="nt">-m</span> venv ~/cs231n
+</code></pre></div></div>
+
+<p>To activate and enter the environment, run <code class="language-plaintext highlighter-rouge">source ~/cs231n/bin/activate</code>. To deactivate the environment, either run <code class="language-plaintext highlighter-rouge">deactivate</code> or exit the terminal. Note that every time you want to work on the assignment, you should rerun <code class="language-plaintext highlighter-rouge">source ~/cs231n/bin/activate</code>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># sanity check that the path to the python</span>
+<span class="c"># binary matches that of the virtual env</span>
+<span class="c"># after you activate it</span>
+which python
+<span class="c"># for example, on my machine, this prints</span>
+<span class="c"># $ '/Users/kevin/cs231n/bin/python'</span>
+</code></pre></div></div>
+
+<p><a name="packages"></a></p>
+<h4 id="installing-packages">Installing packages</h4>
+
+<p>Once you’ve <strong>setup</strong> and <strong>activated</strong> your virtual environment (via <code class="language-plaintext highlighter-rouge">conda</code> or <code class="language-plaintext highlighter-rouge">venv</code>), you should install the libraries needed to run the assignments using <code class="language-plaintext highlighter-rouge">pip</code>. To do so, run:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># again, ensure your virtual env (either conda or venv)</span>
+<span class="c"># has been activated before running the commands below</span>
+<span class="nb">cd </span>assignment1  <span class="c"># cd to the assignment directory</span>
+
+<span class="c"># install assignment dependencies.</span>
+<span class="c"># since the virtual env is activated,</span>
+<span class="c"># this pip is associated with the</span>
+<span class="c"># python binary of the environment</span>
+pip <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <div class="footer-col-1 column">
+      <ul>
+
+        <li>
+          <a href="https://github.com/cs231n">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">cs231n</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/cs231n">
+            <span class="icon twitter">
+              <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill="#C2C2C2" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27
+                c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767
+                c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206
+                C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271
+                c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469
+                c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+              </svg>
+            </span>
+            <span class="username">cs231n</span>
+          </a>
+        </li>
+        <!-- <li>
+          <a href="mailto:cgokmen@stanford.edu">cgokmen@stanford.edu</a>
+        </li> -->
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+
+    </div>
+
+    <div class="footer-col-3 column">
+
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <!-- mathjax -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">
+      // Make responsive
+      MathJax.Hub.Config({
+       "HTML-CSS": { linebreaks: { automatic: true } },
+       "SVG": { linebreaks: { automatic: true } },
+      });
+    </script>
+
+    </body>
+</html>
