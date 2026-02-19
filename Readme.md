@@ -33,7 +33,7 @@ Referensi Tambahan:
     * Pembentukan kelompok  **Team Project**
     * **Mini Project 1(Individual)**: [Data Source Analysis](https://)
     * Form Pengumpulan Laporan Mini Project (link) (https://forms.gle/iv5HvX8yUFzoFFfK8)
-  * Minggu 2 : [ppt](https://https://drive.google.com/file/d/15tjISNazlHfNHcBz-NjFqxuotEmjnrQS/view?usp=sharing)
+  * Minggu 2 : [ppt](https://drive.google.com/file/d/1NZEPCXDxDQvAlmAXKMdgulwZXWoZH0Af/view?usp=sharing)
     * Overview tools dan teknologi
     * Review Mini Project dan Team Project
 
