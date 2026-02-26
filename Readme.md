@@ -42,7 +42,7 @@ Referensi Tambahan:
 * **MINGGU 3-4: Module 2 - Python Programming Fundamentals**
   * **Team Project**: [Data Structure for Public Datasets](project/team_project2.md)
   * Review Team Project
-  * Minggu 3: [ppt] **(update 2026)**
+  * Minggu 3: [ppt](https://drive.google.com/file/d/1jb5Iu7qqGQYW2ASnIbB4r8gIqvXhTxVN/view?usp=drive_link) **(update 2026)**
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
