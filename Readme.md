@@ -46,7 +46,7 @@ Referensi Tambahan:
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
-    * [Hands-on practice1](project/kode/Hands_on_practice1/)
+    * [Hands-on practice1](kode/hands_on_practice1/)
   * Minggu 4 :
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
