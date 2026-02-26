@@ -42,28 +42,29 @@ Referensi Tambahan:
 * **MINGGU 3-4: Module 2 - Python Programming Fundamentals**
   * **Team Project**: [Data Structure for Public Datasets](project/team_project2.md)
   * Review Team Project
-  * Minggu 3:
+  * Minggu 3: [ppt] **(update 2026)**
     * Python Basics (Variables, Data Types, Operators)
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
-    * [Hands-on practice1](kode/Hands_on_practice1.ipynb)
+    * [Hands-on practice1](project/kode/Hands_on_practice1/)
   * Minggu 4 :
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
     * [Hands-on practice2](kode/hand_on_practice2)
     * **Mini Project 2** : [Data Structure Implementation](https://project/mini_project2.md)
+    * Form Pengumpulan Laporan Mini Project (link)
 
 ---
 
 * **MINGGU 5-6: Module 3 - Data Formats and Basic Processing**
   * **Team Project**: [Public Data Format Handler](project/team_project3.md)
   * Review Team Project
-  * Minggu 5 :
+  * Minggu 5 : [ppt]
     * Membaca berbagai format data (CSV, JSON, API)
     * CSV dan JSON processing
     * Text files dan XML basics
-    * [Hand_on_practice3](kode/hand_on_practice3)
+    * [Hand_on_practice3](project/kode/hand_on_practice3)
   * Minggu 6 :
     * Handle geographic data (GeoJSON)
     * Process demographic data (CSV)

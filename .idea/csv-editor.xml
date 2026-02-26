@@ -3,6 +3,27 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\project\225\kode\hand_on_practice2\data\weather_2012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\project\225\kode\hand_on_practice4\data\traffic_crashes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\project\kode\hand_on_practice1\data\weather_2012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\project\kode\hand_on_practice2\data\weather_2012.csv">
           <value>
             <Attribute>
@@ -11,6 +32,13 @@
           </value>
         </entry>
         <entry key="\project\kode\hand_on_practice4\data\traffic_crash_people.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\project\kode\hand_on_practice4\data\traffic_crashes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
