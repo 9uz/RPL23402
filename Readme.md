@@ -53,7 +53,7 @@ Referensi Tambahan:
     * Error handling dan File operations
     * [Hands-on practice2](project/kode/hand_on_practice2)
     * **Mini Project 2** : [Data Structure Implementation](project/mini_project2.md)
-    * Form Pengumpulan Laporan Mini Project (link)
+    * Form Pengumpulan Laporan Mini Project [link](//https://forms.gle/x7QuGgDatrQiW9ay6)
 
 ---
 
