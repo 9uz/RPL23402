@@ -31,7 +31,7 @@ Referensi Tambahan:
     * Big Data characteristics dan career paths
     * Real-world use cases
     * Pembentukan kelompok  **Team Project**
-    * **Mini Project 1(Individual)**: [Data Source Analysis](https://)
+    * **Mini Project 1(Individu)**: [Data Source Analysis](https://)
     * Form Pengumpulan Laporan Mini Project (link) (https://forms.gle/iv5HvX8yUFzoFFfK8)
   * Minggu 2 : [ppt](https://drive.google.com/file/d/1NZEPCXDxDQvAlmAXKMdgulwZXWoZH0Af/view?usp=sharing)
     * Overview tools dan teknologi
@@ -47,12 +47,12 @@ Referensi Tambahan:
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
     * [Hands-on practice1](project/kode/hand_on_practice1)
-  * Minggu 4 :
+  * Minggu 4 : (update 2026)**
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
     * [Hands-on practice2](project/kode/hand_on_practice2)
-    * **Mini Project 2** : [Data Structure Implementation](https://project/mini_project2.md)
+    * **Mini Project 2** : [Data Structure Implementation](project/mini_project2.md)
     * Form Pengumpulan Laporan Mini Project (link)
 
 ---
