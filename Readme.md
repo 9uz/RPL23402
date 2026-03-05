@@ -47,7 +47,7 @@ Referensi Tambahan:
     * Control Flow dan Functions
     * Pengenalan library utama: pandas, numpy
     * [Hands-on practice1](project/kode/hand_on_practice1)
-  * Minggu 4 : (update 2026)**
+  * Minggu 4 : [ppt](https://drive.google.com/file/d/1Aog74vehAjyf6_btmlDI8zCw9bUHsP4p/view?usp=drive_link) **(update 2026)**
     * Data Structures dan operations
     * Data cleaning dan transformasi dasar
     * Error handling dan File operations
@@ -65,7 +65,7 @@ Referensi Tambahan:
     * CSV dan JSON processing
     * Text files dan XML basics
     * [Hand_on_practice3](project/kode/hand_on_practice3)
-  * Minggu 6 :
+  * Minggu 6 : [ppt]
     * Handle geographic data (GeoJSON)
     * Process demographic data (CSV)
     * Statistical data (Excel/CSV)
